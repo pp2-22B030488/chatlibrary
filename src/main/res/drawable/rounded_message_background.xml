@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Цвет фона -->
+    <solid android:color="#E0E0E0"/>  <!-- Светло-серый цвет -->
+
+    <!-- Скругление углов -->
+    <corners android:radius="16dp"/>  <!-- Радиус скругления углов -->
+
+    <!-- Тень для улучшения видимости -->
+    <stroke android:color="#B0B0B0" android:width="1dp"/>
+</shape>
